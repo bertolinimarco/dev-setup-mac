@@ -1,11 +1,11 @@
 # New Mac Setup for Web Development
 
-- Xcode
+## Xcode
 ```bash
 xcode-select --install
 ```
 
-- Brew
+## Brew
 
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -13,30 +13,30 @@ brew upgrade && brew update
 export PATH="/usr/local/bin:$PATH
 ```
 
-- iTerm2
+## iTerm2
 ```bash
 brew cask install iterm2
 ```
 
-- Node + npm
+## Node + npm
 
 ```bash
 brew install git
 ```
 
-- Node + npm
+## Node + npm
 
 ```bash
 brew install node
 ```
 
-- Fira Code
+## Fira Code
 
 ```bash
 https://github.com/tonsky/FiraCode
 ```
 
-- Powerline Fonts
+## Powerline Fonts
 
 ```bash
 git clone https://github.com/powerline/fonts.git --depth=1
@@ -52,25 +52,25 @@ After that, set the font in iTerm2 (or in your Terminal app).
 Preferences -> Profiles -> Text -> Change Font
 ```
 
-- ZSH
+## ZSH
 
 ```bash
 brew install zsh zsh-completions
 ```
 
-- Oh My ZSH
+## Oh My ZSH
 
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
-- Spaceship Prompt
+## Spaceship Prompt
 
 ```bash
 npm install -g spaceship-prompt
 ```
 
-- PHP
+## PHP
 
 ```bash
 brew install php72
