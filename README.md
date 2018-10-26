@@ -1,7 +1,9 @@
 # New Mac Setup for Web Development
 
 - Xcode
-  xcode-select --install
+```bash
+xcode-select --install
+```
 
 - Brew
 
