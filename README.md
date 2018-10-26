@@ -18,7 +18,7 @@ export PATH="/usr/local/bin:$PATH
 brew cask install iterm2
 ```
 
-## Node + npm
+## Git
 
 ```bash
 brew install git
