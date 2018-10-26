@@ -12,7 +12,9 @@ export PATH="/usr/local/bin:$PATH
 ```
 
 - iTerm2
-  brew cask install iterm2
+```bash
+brew cask install iterm2
+```
 
 - Node + npm
 
