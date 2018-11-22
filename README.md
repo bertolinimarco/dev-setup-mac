@@ -1,4 +1,4 @@
-# New Mac Setup for Web Development
+# Mac Setup for Web Development
 
 ## Xcode
 ```bash
