@@ -52,24 +52,6 @@ After that, set the font in iTerm2 (or in your Terminal app).
 Preferences -> Profiles -> Text -> Change Font
 ```
 
-## ZSH
-
-```bash
-brew install zsh zsh-completions
-```
-
-## Oh My ZSH
-
-```bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-```
-
-## Spaceship Prompt
-
-```bash
-npm install -g spaceship-prompt
-```
-
 ## PHP
 
 ```bash
