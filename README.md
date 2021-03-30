@@ -41,12 +41,6 @@ brew install node
 brew install --cask visual-studio-code
 ```
 
-## XAMPP
-
-```
-brew install --cask xampp
-```
-
 ## Kap (Video Sharing)
 
 ```
