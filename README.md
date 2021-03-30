@@ -30,6 +30,24 @@ brew install git
 brew install node
 ```
 
+## VSCode
+
+```
+brew cask install visual-studio-code
+```
+
+## XAMPP
+
+```
+brew install --cask xampp
+```
+
+## Kap (Video Sharing)
+
+```
+brew cask install kap
+```
+
 ## Fira Code
 
 ```bash
