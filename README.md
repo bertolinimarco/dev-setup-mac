@@ -15,7 +15,12 @@ export PATH="/usr/local/bin:$PATH
 
 ## iTerm2
 ```bash
-brew cask install iterm2
+brew install --cask iterm2
+```
+
+## Show hidden files by default
+```
+defaults write com.apple.Finder AppleShowAllFiles true
 ```
 
 ## Git
@@ -33,7 +38,7 @@ brew install node
 ## VSCode
 
 ```
-brew cask install visual-studio-code
+brew install --cask visual-studio-code
 ```
 
 ## XAMPP
@@ -45,7 +50,7 @@ brew install --cask xampp
 ## Kap (Video Sharing)
 
 ```
-brew cask install kap
+brew install --cask kap
 ```
 
 ## Fira Code
