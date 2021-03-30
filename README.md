@@ -36,16 +36,6 @@ brew install node
 https://github.com/tonsky/FiraCode
 ```
 
-## Powerline Fonts
-
-```bash
-git clone https://github.com/powerline/fonts.git --depth=1
-cd fonts
-./install.sh
-cd ..
-rm -rf fonts
-```
-
 After that, set the font in iTerm2 (or in your Terminal app).
 
 ```bash
@@ -55,5 +45,5 @@ Preferences -> Profiles -> Text -> Change Font
 ## PHP
 
 ```bash
-brew install php72
+brew install php
 ```
